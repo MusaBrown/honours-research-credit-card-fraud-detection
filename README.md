@@ -218,17 +218,6 @@ The implementation code for this research is available at:
 Student ID: 202219155  
 Honours Research Project — Computer Science
 
-📧 [Your Email]  
-🔗 [LinkedIn]  
-🐙 [GitHub: @MusaBrown](https://github.com/MusaBrown)
-
----
-
-## Acknowledgments
-
-- **Dataset:** Machine Learning Group at ULB (Université Libre de Bruxelles) via Kaggle
-- **Supervisor:** [Supervisor Name]
-- **Institution:** [University Name]
 
 ---
 
